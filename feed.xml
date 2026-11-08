@@ -10,6 +10,14 @@
     <itunes:type>episodic</itunes:type>
     <itunes:block>yes</itunes:block>
     <itunes:category text="Business"/>
-
+    <item>
+      <title>CSL Behring: a plain-English tour of what it actually sells</title>
+      <description>The product portfolio explained without the share price or forecasts: plasma and immunoglobulin, haemophilia and gene therapy, emergency plasma products, hereditary angioedema and Andembry, and the one question to ask about any CSL product.</description>
+      <pubDate>Wed, 04 Nov 2026 12:00:00 +0000</pubDate>
+      <enclosure url="https://lhalmorn.github.io/podcast-feed/audio/2026-11-04-csl-behring-product-portfolio.mp3" length="29274596" type="audio/mpeg"/>
+      <guid isPermaLink="false">3d91e918fd4a545a23a6364e06ab6d29e7fa8efd</guid>
+      <itunes:duration>00:30:29</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
   </channel>
 </rss>

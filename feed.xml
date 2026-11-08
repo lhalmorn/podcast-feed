@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <title>Lochie's Research Briefings</title>
+    <link>https://lhalmorn.github.io/podcast-feed/</link>
+    <language>en-au</language>
+    <description>Private audio briefings generated from my research notes: Australian banks, insurance, and the Anthropic IPO.</description>
+    <itunes:author>Lochie Halloway</itunes:author>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:type>episodic</itunes:type>
+    <itunes:block>yes</itunes:block>
+    <itunes:category text="Business"/>
+
+  </channel>
+</rss>

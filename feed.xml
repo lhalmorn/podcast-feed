@@ -14,6 +14,15 @@
     <itunes:owner><itunes:name>Lochie Halloway</itunes:name></itunes:owner>
     <itunes:category text="Business"/>
     <item>
+      <title>Anthropic IPO 2: What Morningstar and PitchBook analysts think</title>
+      <description>Harrison Rolfes' five PitchBook notes and his $1.42tn fair value, the margin debate, compute commitments seen from Anthropic's and Broadcom's side, moats and commodification (Khan, Hawthorne), governance and index inclusion, and how to get exposure. General information only, not advice.</description>
+      <pubDate>Mon, 09 Nov 2026 12:00:00 +0000</pubDate>
+      <enclosure url="https://lhalmorn.github.io/podcast-feed/audio/2026-11-08-anthropic-morningstar-view.mp3" length="16595904" type="audio/mpeg"/>
+      <guid isPermaLink="false">b1842c3ad6adae15eb25b7edb7e6caa3c7289a6b</guid>
+      <itunes:duration>00:17:17</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Anthropic IPO 1: The S-1 explained - how a frontier AI lab makes money</title>
       <description>A walk through Anthropic's S-1/A (filed 2 Nov 2026): the training, serving and selling economics of a frontier lab, how each customer type is billed, the numbers, the $895bn compute commitments, peers, control, the offering and the IPO timeline. General information only, not advice.</description>
       <pubDate>Sun, 08 Nov 2026 12:00:00 +0000</pubDate>
